@@ -19,11 +19,11 @@ Communication and Electronics Engineering Department is considered to be one of 
 <summary><strong>These are the tracks that are currently available:</strong></summary>
   
 - Artificial Intelligence
-- Integrated Circuit Design
-- Analog Design
+- Analog Electronics
+- Digital Electronics
 - Mobile Communications
 - Internet of Things (IoT)
-
+- Cloud Computing
 </details>
 
 
