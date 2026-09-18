@@ -21,9 +21,9 @@ Communication and Electronics Engineering Department is considered to be one of 
 - Artificial Intelligence
 - Analog Electronics
 - Digital Electronics
-- Mobile Communications
+- Wireless Communications
 - Internet of Things (IoT)
-- Cloud Computing
+- Networking
 </details>
 
 
