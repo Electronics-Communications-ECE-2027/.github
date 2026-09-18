@@ -1,7 +1,7 @@
 # Hey, this is us :wave:
 ## Welcome to Electronics and Communications Enigneering Department
 <p align="center">
-  <img src="./images/cover.png.png" alt="ECE 27" width="100%">
+  <img src="./images/cover.png.png" alt="ECE 27" width="1536" height="1024">
 </p>
 Communication and Electronics Engineering Department is considered to be one of the department in the Faculty of Engineering, Mansoura University in Egypt. This orgnaization is created to provide the roadmap for technical field that is related to the studying in the department. 
 
